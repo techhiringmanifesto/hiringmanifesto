@@ -2,7 +2,7 @@
 
 Us, Web Developers, Mobile developers and in general Software engineers, are deeply worried about the direction of technical hiring process which excludes talented people from the job market, leads to sub-optimal choices and costs time and money to both companies and ourselves. Given the above, we endorse the following points:
 ## Clear, transparent and well-defined interview processes
-We want to know the steps and what we need to achieve to be successful in them in advance. No spontaneous, unplanned tech challenges.
+We want to know the steps and what we need to achieve to be successful in them in advance. No spontaneous tech challenges magically appearing after technical screening has already happened. We also want to know how many face to face meetings will take place and how long they will last so we can do the necessary arrangements with our existing work or other obligations.
 ## A fair split of effort spent between hiring and us, when it comes to candidate filtering
 We understand bigger corporations receive many resumes, and we also understand smaller companies do not have the means to personally filter and investigate every candidate’s past projects and public repositories or other open source contributions. We are willing to do work on our end to help you with screening, but we expect the split to be fair. Ask for our salary expectations upfront, and be sure you can follow-through with our initial verbal agreement before we move into the next steps. 
 ## In person interviews should take into highest consideration the physical and emotional comfort of the applicant 
